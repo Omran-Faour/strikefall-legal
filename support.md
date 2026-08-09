@@ -6,7 +6,7 @@ title: Strikefall Support
 
 Need help with Strikefall? Contact us at:
 
-**Email:** [omran.faour217@gmail.com](mailto:omran.faour217@gmail.com)
+**Email:** [info@auravion.com](mailto:info@auravion.com)
 
 When reporting a problem, please include:
 
