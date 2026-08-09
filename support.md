@@ -2,7 +2,7 @@
 
 Need help with Strikefall? Contact us at:
 
-**Email:** [omranfao@gmail.com](mailto:omranfao@gmail.com)
+**Email:** [omran.faour217@gmail.com](mailto:omran.faour217@gmail.com)
 
 When reporting a problem, please include:
 
