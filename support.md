@@ -1,3 +1,7 @@
+---
+title: Strikefall Support
+---
+
 # Strikefall Support
 
 Need help with Strikefall? Contact us at:
@@ -21,6 +25,6 @@ Rewarded ads depend on network connectivity and ad availability. If an ad does n
 
 ## Privacy
 
-Read the [Strikefall Privacy Policy](PASTE_YOUR_PRIVACY_POLICY_URL_HERE).
+Read the [Strikefall Privacy Policy](https://omran-faour.github.io/strikefall-legal/privacy.html).
 
 We normally respond within three business days.
