@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Strikefall is a mobile action game by Auravion. Explore game information, purchase recovery, support, and our privacy policy.">
+  <title>Strikefall — Auravion</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; background: #101419; color: #edf0f3; }
+    * { box-sizing: border-box; }
+    body { margin: 0; line-height: 1.65; }
+    main, footer { width: min(900px, 100%); margin: auto; padding: 32px 24px; }
+    header { padding: 64px 0 40px; border-bottom: 1px solid #37404a; }
+    .studio { color: #f4c653; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+    h1 { font-size: clamp(2.8rem, 9vw, 5rem); margin: 12px 0; line-height: 1.1; letter-spacing: -.04em; }
+    h2 { font-size: 1.35rem; margin-top: 0; }
+    p { max-width: 68ch; }
+    .intro { color: #c6cdd5; font-size: 1.2rem; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 20px; margin: 36px 0; }
+    section { background: #1b222b; border: 1px solid #37404a; padding: 24px; border-radius: 12px; }
+    a { color: #f4c653; text-underline-offset: 4px; }
+    a:focus-visible { outline: 3px solid #fff; outline-offset: 5px; }
+    .button { display: inline-block; background: #f4c653; color: #101419; font-weight: 700; padding: 11px 18px; border-radius: 6px; margin-top: 12px; }
+    footer { color: #b3bdc8; border-top: 1px solid #37404a; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="studio">A game by Auravion</div>
+      <h1>Strikefall</h1>
+      <p class="intro">Explosive mobile action. Take on missions, unlock weapons, and blast through destructible environments.</p>
+      <a class="button" href="privacy.html">Read our privacy policy</a>
+    </header>
+    <div class="cards">
+      <section aria-labelledby="play-title">
+        <h2 id="play-title">Play without creating an account</h2>
+        <p>Strikefall does not require a separate game account. Android purchases are processed through Google Play.</p>
+        <p>Optional Google Play Games linking helps protect and recover your purchased credit balance. Use Restore purchases in the game's settings to restore eligible purchases.</p>
+      </section>
+      <section aria-labelledby="support-title">
+        <h2 id="support-title">Help and privacy</h2>
+        <p>For questions about the game, purchases, or requests to delete data associated with Strikefall, contact <a href="mailto:info@auravion.com">info@auravion.com</a>.</p>
+        <p>Our <a href="privacy.html">privacy policy</a> explains how information is collected, used, and shared.</p>
+      </section>
+    </div>
+  </main>
+  <footer>© 2026 Auravion · <a href="https://www.auravion.com/">Visit Auravion</a> · <a href="privacy.html">Privacy policy</a></footer>
+</body>
+</html>
